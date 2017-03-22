@@ -1,2 +1,2 @@
-# Snippets
-A repository for various project and code snippets
+# SandBox
+A SandBox repository for various project and code snippets
