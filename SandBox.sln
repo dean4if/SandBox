@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuickStart", "QuickStart\QuickStart.vbproj", "{AC1B7613-7FF4-4F7C-82F3-4BEC7241A54C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TOH", "TOH\TOH.vbproj", "{8DA299CC-645A-4100-A97C-2989C77C89AA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TourOfHeroes", "TourOfHeroes\TourOfHeroes.vbproj", "{C33F8794-C985-4A3B-A5F4-D947EBD33F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1B7613-7FF4-4F7C-82F3-4BEC7241A54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1B7613-7FF4-4F7C-82F3-4BEC7241A54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1B7613-7FF4-4F7C-82F3-4BEC7241A54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1B7613-7FF4-4F7C-82F3-4BEC7241A54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA299CC-645A-4100-A97C-2989C77C89AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA299CC-645A-4100-A97C-2989C77C89AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA299CC-645A-4100-A97C-2989C77C89AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA299CC-645A-4100-A97C-2989C77C89AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33F8794-C985-4A3B-A5F4-D947EBD33F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33F8794-C985-4A3B-A5F4-D947EBD33F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33F8794-C985-4A3B-A5F4-D947EBD33F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33F8794-C985-4A3B-A5F4-D947EBD33F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
